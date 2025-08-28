@@ -1,0 +1,6 @@
+@WebApiSandwitch_HostAddress = http://localhost:5134
+
+GET {{WebApiSandwitch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
